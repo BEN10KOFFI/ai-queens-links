@@ -1,6 +1,6 @@
 
-# AI Queens Rise — Resources (PS:This page is still in construction currently!!!)
-- Hi👋,Welcome to the AI Queens Rise resource hub! 🎉  
+# AI Queens In Bloom — Resources (PS:This page is still in construction currently!!!)
+- Hi👋,Welcome to the AI Queens In Bloom resource hub! 🎉  
 Our mission is to empower young African women to succeed in AI by combining hands-on training (“Form”) with targeted outreach and inspiration (“Inform”).
 
 ---
@@ -22,4 +22,4 @@ Stay inspired by real-world stories, research insights, and community events:
 ---
 
 > “By combining rigorous training with powerful stories and community support, we can close the gender gap in AI—one Queen at a time.”  
-> — The AI Queens Rise Team
+> — The AI Queens In Bloom Team
