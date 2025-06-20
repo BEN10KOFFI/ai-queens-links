@@ -1,5 +1,5 @@
 
-# AI Queens In Bloom — Resources (PS:This page is still in construction currently!!!)
+# AI Queens In Bloom Resources (PS:This page is still in construction currently!!!)
 - Hi👋,Welcome to the AI Queens In Bloom resource hub! 🎉  
 Our mission is to empower young African women to succeed in AI by combining hands-on training (“Form”) with targeted outreach and inspiration (“Inform”).
 
